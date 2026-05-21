@@ -5,6 +5,8 @@ failed/
 sgsme_control/
 sgsme_physics_failed/
 sgsme_physics_notfailed/
+sgsme_notebook_iterations/*.ckpt
+UPDATES.md
 
 
 # Byte-compiled / optimized / DLL files
